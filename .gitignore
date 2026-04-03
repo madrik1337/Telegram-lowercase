@@ -1,0 +1,6 @@
+# Игнорируем все выходные папки с переводами
+lowercase_translations_*/
+
+# Игнорируем все файлы локализации в папке translations
+translations/*.strings
+translations/*.xml
